@@ -14,7 +14,7 @@ header{position: relative;}
 
 
 
-.headers{width: 100%;background: rgb(1 49 12 / 45%);padding: 10px 10px;position: fixed;z-index: 1000;-webkit-transition: all ease-out .5s;-moz-transition: all ease-out .5s;-o-transition: all ease-out .5s;transition: all ease-out .5s;}
+.headers{width: 100%;background: rgb(242 240 243 / 45%);padding: 10px 10px;position: relative;z-index: 1000;-webkit-transition: all ease-out .5s;-moz-transition: all ease-out .5s;-o-transition: all ease-out .5s;transition: all ease-out .5s;}
 
 
 
@@ -22,7 +22,7 @@ header{position: relative;}
 
 
 
-.headeractive{background: var(--white-color);opacity: 1 !important;} .headers{opacity: 0;}
+.headeractive{background: var(--white-color);opacity: 1 !important;} 
 
 
 
