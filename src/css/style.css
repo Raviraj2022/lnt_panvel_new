@@ -14,7 +14,7 @@ header{position: relative;}
 
 
 
-.headers{width: 100%;background: rgb(242 240 243 / 45%);padding: 10px 10px;position: relative;z-index: 1000;-webkit-transition: all ease-out .5s;-moz-transition: all ease-out .5s;-o-transition: all ease-out .5s;transition: all ease-out .5s;}
+.headers{width: 100%;background: #FFF6ED;padding: 10px 10px;position: relative;z-index: 1000;-webkit-transition: all ease-out .5s;-moz-transition: all ease-out .5s;-o-transition: all ease-out .5s;transition: all ease-out .5s;}
 
 
 
